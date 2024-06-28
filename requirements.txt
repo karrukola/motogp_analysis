@@ -1,0 +1,7 @@
+matplotlib
+pypdf
+rich
+
+fastui
+fastapi
+uvicorn
